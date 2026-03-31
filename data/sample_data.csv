@@ -1,0 +1,6 @@
+date,product,category,region,sales,price,inventory
+2025-01-01,A,Electronics,North,1200,100,50
+2025-01-02,B,Clothing,South,800,40,100
+2025-01-03,C,Electronics,West,1500,120,30
+2025-01-04,D,Furniture,East,2000,300,20
+2025-01-05,E,Clothing,North,600,35,80
